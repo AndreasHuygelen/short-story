@@ -1,4 +1,8 @@
+# Lily's Journey to the Crystal Cave
+
 Once upon a time, in a land far, far away, there lived a young girl named Lily. Lily was a curious and adventurous girl who loved to explore the forest near her home.
+
+![caves](cave.jfif)
 
 One day, while exploring the forest, Lily stumbled upon a mysterious cave. She had never seen it before, and it piqued her curiosity. She decided to enter the cave and explore its depths.
 
